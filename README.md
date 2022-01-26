@@ -2,7 +2,7 @@
 
 I'm Alberto and I'm a Software Engineer who is passionate about building tech and learning new technologies.
 
-- 🔭 I’m currently working at IBM CIC as Application Developer-
+- 🔭 I’m currently working at IBM CIC as Application Developer
 - 🌱 I’m currently learning Solidity and Blockchain
 - ⚡ My motto is: knowledge is of more value than gold
 
